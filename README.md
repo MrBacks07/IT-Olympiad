@@ -1,1 +1,1 @@
-#My solutions to IT Olympiad tasks :D
+# My solutions to IT Olympiad tasks :D

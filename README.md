@@ -1,1 +1,1 @@
-"#My solutions to IT Olympiad tasks." 
+#My solutions to IT Olympiad tasks :D
